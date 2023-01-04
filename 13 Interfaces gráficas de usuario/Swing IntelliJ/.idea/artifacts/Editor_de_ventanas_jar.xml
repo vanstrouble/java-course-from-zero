@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Editor de ventanas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Editor_de_ventanas_jar</output-path>
+    <root id="archive" name="Editor de ventanas.jar">
+      <element id="module-output" name="Editor de ventanas" />
+    </root>
+  </artifact>
+</component>
